@@ -143,4 +143,17 @@ tag : Meta learning, Contrastive learning, distance learning
 ## info
 + 2 or 5 keypoint detect
 
+## ETC
+![image](https://github.com/user-attachments/assets/0e416a38-bcd6-4a34-ad80-6c83cbc3066e)
+![image](https://github.com/user-attachments/assets/d4a57283-a56e-4e4a-a110-b7780f2a7a4e)
+![image](https://github.com/user-attachments/assets/7cfa8dea-cf78-4513-953f-fd572fd07e98)
+![image](https://github.com/user-attachments/assets/0640dabd-535b-487a-aa24-00b36999ad3f)
+![image](https://github.com/user-attachments/assets/cc8a6fbd-05a4-4d06-a16a-9f1172b7bc6a)
+
+
+
+
+
+
+
 
